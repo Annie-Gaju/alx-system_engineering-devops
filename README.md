@@ -1,1 +1,14 @@
-# alx-system_engineering-devops-
+- **0-current_working_directory:** This script prints the pathname of the current working directory 
+- **1-listit:** This displays the contents list of the current working directory
+- **3-listfiles:** This displays the contents of the current directory in a long format
+- **4-listmorefiles:** This displays all the contents of the directory including the hidden files with (.)
+- **5-listfilesdigitonly:** This displays the current directory contents including hidden files in long format
+-  **6-firstdirectory:** Creates a directory named my_first_directory
+-  **7-movethatfile:** Moves the file betty from /tmp/directory to /tmp/my_first_directory
+-  **8-firstdelete:** Deletes a file named betty in /tmp/my_first_directory
+-  **9-firstdirdeletion:** Deletes a directory named my_first_directory in /tmp directory
+-  **10-back:** Changes the current directory to the previous one
+-  **11-lists:** Lists all files in the current directory, parent of the current directory and /boot directory in long format
+-  **12-file_type:** Prints the type of the file named iamafile currently present in the /tmp directory
+-  **13-symbolic_link:** Creates a symbolic like to /bin/ls named _ls_ in the current working directory
+-  **14-copy_html:** Copies all HTML files from the working directory to the parent of the working directory but only copies files that do not exist in or are newer than the versions in the parent of the working directory
